@@ -3,6 +3,12 @@
 Based on a recent trip to New York City where we used the Citi Bikes to easily travel from one place to the other we had the idea to develop a proposal for a bike sharing service in De Moines, Iowa.  By preforming an analysis on the publicly available data from Citi Bike we will be able to identify the areas of opportunity and where to begin with this project in De Moines, Iowa by comparing placement of biking docks, planning for maintenance and the peak times of day that the bikes may be in use.  Potential Investors have requested an analysis and we hope to be able to get buy in from them on our proposal with our findings.
 
 ## Results
+### Tableau Visualizations
+#### Module 14 Analysis
+[link to dashboard](https://public.tableau.com/app/profile/rasheem.gatewood/viz/RasheemGatewoodbikesharing/BikesharingAnalysis?publish=yes)
+
+#### Challenge Analysis
+[link to dashboard](https://public.tableau.com/app/profile/rasheem.gatewood/viz/CitiBikeAnalysis_16465026276460/DeMoiseBikesharingAnalysis?publish=yes)
 
 <img width="882" alt="Screen Shot 2022-03-05 at 2 58 17 PM" src="https://user-images.githubusercontent.com/93060074/156898324-07794a01-0234-4ce1-9ca4-68bc099612ce.png">
 
