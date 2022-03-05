@@ -8,7 +8,7 @@ Based on a recent trip to New York City where we used the Citi Bikes to easily t
 [link to dashboard](https://public.tableau.com/app/profile/rasheem.gatewood/viz/RasheemGatewoodbikesharing/BikesharingAnalysis?publish=yes)
 
 #### Challenge Analysis
-[link to dashboard](https://public.tableau.com/app/profile/rasheem.gatewood/viz/CitiBikeAnalysis_16465026276460/DeMoiseBikesharingAnalysis?publish=yes)
+[link to dashboard](https://public.tableau.com/app/profile/rasheem.gatewood/viz/CitiBikeAnalysis_16465026276460/DeMoinseBikesharingAnalysis?publish=yes)
 
 <img width="882" alt="Screen Shot 2022-03-05 at 2 58 17 PM" src="https://user-images.githubusercontent.com/93060074/156898324-07794a01-0234-4ce1-9ca4-68bc099612ce.png">
 
